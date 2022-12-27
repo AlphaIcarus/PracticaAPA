@@ -29,7 +29,7 @@ git clone https://github.com/AlphaIcarus/PracticaAPA.git
 La lista de paquetes utilizados se encuentra en el fichero requirements.txt. Estos paquetes se pueden descargar utilizando los siguientes comandos:
 
 ```bash
-pip install foobar
+FALTA POR PONER
 ```
 
 ## Ejecución del notebook
@@ -42,28 +42,6 @@ jupyter notebook
 
 Este le llevará al contenido del directorio desde el menú del notebook, y allí puede seleccionar el archivo .ipynb.
 
-El Jupyter Notebook ya mantiene la ejecución previa, por lo que no hace falta ser ejecutado de nuevo. Si se desea ejecutar de nuevo, debe presionar Kernel > Restart & Run all.
+El Jupyter Notebook ya mantiene la ejecución previa, por lo que no hace falta ser ejecutado de nuevo. Si se desea ejecutar de nuevo, debe presionar:
 
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+Kernel > Restart & Run all.
