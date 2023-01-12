@@ -26,11 +26,7 @@ git clone https://github.com/AlphaIcarus/PracticaAPA.git
 
 2) Paquetes utilizados
 
-La lista de paquetes utilizados se encuentra en el fichero requirements.txt. Estos paquetes se pueden descargar utilizando los siguientes comandos:
-
-```bash
-FALTA POR PONER
-```
+La lista de paquetes utilizados se encuentra en el fichero requirements.txt.
 
 ## Ejecución del notebook
 
